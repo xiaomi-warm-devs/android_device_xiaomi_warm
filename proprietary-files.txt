@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from POCO C75 5G/REDMI A4 5G (OS1.0.10.0.UGVINXM). 
+## are from POCO C75 5G/REDMI A4 5G (OS2.0.203.0.VGVINXM). 
 
 # Init
 vendor/bin/init.class_main.sh

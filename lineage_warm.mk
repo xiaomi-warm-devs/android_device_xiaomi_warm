@@ -22,9 +22,9 @@ PRODUCT_MODEL := 24116PCC1I
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc=$(call normalize-path-list, "warm warm 14 UKQ1.240624.001 V816.0.10.0.UGVINXM release-keys")
+    BuildDesc=$(call normalize-path-list, "warm warm 15 AQ3A.241213.002 OS2.0.203.0.VGVINXM release-keys")
 
-BUILD_FINGERPRINT := Xiaomi/warm/warm:14/UKQ1.240624.001/V816.0.10.0.UGVINXM:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/warm/warm:15/AQ3A.241213.002/OS2.0.203.0.VGVINXM:user/release-keys
 
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
